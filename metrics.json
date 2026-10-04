@@ -1,0 +1,1 @@
+{"holdout": {"accuracy": 0.82, "roc_auc": 0.927, "recall": 0.786, "precision": 0.815, "n_test": 61}, "cv": {"accuracy": 0.855, "roc_auc": 0.918, "recall": 0.812, "precision": 0.867, "accuracy_std": 0.036}, "n": 302, "seed": 42}
